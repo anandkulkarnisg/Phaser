@@ -1,0 +1,3 @@
+IllegalArgumentException|Exception : The argument passed to the Phaser method is invalid. Please check for -ve numbers and numbers crossing the support platform Limit.
+IllegalStateException|Exception : Attempted arrival of unregistered party for Phaser.Terminating phaser. 
+TimeoutException|Exception : The await with timeout parameter timed out.
